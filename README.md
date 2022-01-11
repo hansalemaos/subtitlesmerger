@@ -68,7 +68,8 @@ After the download, **ffsubsync** will use **ffmpeg** to extract the audio and s
 | -------------------------------------------------------------- |- |
 Check which one of the subtitles is the best and delete the others.<br>|<img src="198_800x800.png" width="400"/> |
 
-
+## Result
+<img src="result.png" width="800"/><br>
 ## License
 
 ```
